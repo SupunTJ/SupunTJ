@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **supunjayaweera3@gmail.com**
 
-- 📫 My Wbsite **https://SupunTJ.github.io/my-website/**
+- 📫 My Wbsite **https://supuntj.github.io/my-portfolio-website/**
 
 - ⚡ Fun fact **I am very funny...**
 
