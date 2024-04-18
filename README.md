@@ -62,4 +62,4 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunTJ&theme=dark) | ![](https://github-contributor-stats.vercel.app/api?username=SupunTJ&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=visaladi&radius=16&theme=github-compact&area=true&order=5" height="350" alt="activity-graph graph" /> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SupunTJ&radius=16&theme=github-compact&area=true&order=5" height="350" alt="activity-graph graph" /> 
