@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Inventory-and-POS-system,CakeOclock**
 
-- 🌱 I’m currently learning **Dart, Kotlin, Asp.NET Core Blazor**
+- 🌱 I’m currently learning **React, Asp.NET Core Blazor**
 
 - 👯 I’m looking to collaborate on **inventory-and-pos-system,CakeOclock**
 
