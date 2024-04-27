@@ -6,24 +6,24 @@
 <img align="center" alt="Coding" width="800" height="200" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SupunTJ&label=Profile%20views&color=0e75b6&style=flat" alt="SupunTJ" /> </p>
 
-<!--
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SupunTJ&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
  -->
 
-- 🔭 I’m currently working on **Inventory-and-POS-system,CakeOclock**
+- 🔭 I’m currently working on **Inventory-and-POS-system,CakeOclock-E-commerce,CakeOclock-MobileApp**
 
 - 🌱 I’m currently learning **React, Asp.NET Core Blazor**
 
 - 👯 I’m looking to collaborate on **inventory-and-pos-system,CakeOclock**
 
-- 🤝 I’m looking for help with **inventory-and-pos-system**
+<!-- - 🤝 I’m looking for help with **inventory-and-pos-system**    -->
 
 - 💬 Ask me about **MERN, WPF, ASP.NET**
 
 - 📫 How to reach me **supunjayaweera3@gmail.com**
 
-- 📫 My Wbsite **https://supuntj.github.io/my-portfolio-website/**
+- 📫 My Website **https://supuntj.github.io/my-portfolio-website/**
 
 - ⚡ Fun fact **I am very funny...**
 
