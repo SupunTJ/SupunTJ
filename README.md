@@ -9,9 +9,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SupunTJ&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
- -->
 
-- 🔭 I’m currently working on **Inventory-and-POS-system,CakeOclock-E-commerce,CakeOclock-MobileApp**
+
+- 🔭 I’m currently working on  [CakeOclock-E-commerce](https://github.com/visaladi/CakeOclock) | [Inventory-and-POS-system](https://github.com/visaladi/inventory-and-pos-system) | [CakeOclock-MobileApp](https://github.com/visaladi/CakeOClockMobile)
+
 
 - 🌱 I’m currently learning **React, Asp.NET Core Blazor**
 
@@ -23,7 +24,9 @@
 
 - 📫 How to reach me **supunjayaweera3@gmail.com**
 
-- 📫 My Website **https://supuntj.github.io/my-portfolio-website/**
+- 📫 My Website [supuntj.github.io](https://supuntj.github.io/my-portfolio-website/)
+
+- 📝 I write articles on [Medium](https://medium.com/@supunjayaweera3)
 
 - ⚡ Fun fact **I am very funny...**
 
