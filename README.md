@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on  [CakeOclock-E-commerce](https://github.com/visaladi/CakeOclock) | [Inventory-and-POS-system](https://github.com/visaladi/inventory-and-pos-system) | [CakeOclock-MobileApp](https://github.com/visaladi/CakeOClockMobile)
 
 
-- 🌱 I’m currently learning **React, Asp.NET Core Blazor**
+- 🌱 I’m currently learning **React, ASP.NET Core Blazor**
 
 - 👯 I’m looking to collaborate on **inventory-and-pos-system,CakeOclock**
 
