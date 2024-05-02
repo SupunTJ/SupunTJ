@@ -11,7 +11,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=SupunTJ&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
-- 🔭 I’m currently working on  [CakeOClock-E-commerce](https://github.com/visaladi/CakeOclock) | [Inventory-and-POS-system](https://github.com/visaladi/inventory-and-pos-system) | [CakeOClock-MobileApp](https://github.com/visaladi/CakeOClockMobile)
+- 🔭 I’m currently working on  [CakeOClock-E-Commerce](https://github.com/visaladi/CakeOclock) | [Inventory-POS-system](https://github.com/visaladi/inventory-and-pos-system) | [CakeOClock-MobileApp](https://github.com/visaladi/CakeOClockMobile)
 
 
 - 🌱 I’m currently learning **React, ASP.NET Core Blazor**
