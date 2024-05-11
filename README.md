@@ -59,7 +59,7 @@
  ![](https://github-contributor-stats.vercel.app/api?username=SupunJayaweera&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 
-
+<!--        -->
 
 
 
@@ -67,5 +67,8 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunTJ&theme=dark) | ![](https://github-contributor-stats.vercel.app/api?username=SupunTJ&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
+<!--    
+<a href="https://app.daily.dev/libraiger"><img src="https://api.daily.dev/devcards/v2/d6lWxrgg73SDHQBslU5eO.png?type=wide&r=z1c" width="652" alt="Libra Tiger's Dev Card"/></a>
+  -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupunTJ&radius=16&theme=github-compact&area=true&order=5" height="350" alt="activity-graph graph" /> 
