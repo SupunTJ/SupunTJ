@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React, ASP.NET Core Blazor**
 
-- 👯 I’m looking to collaborate on **CakeOClock-E-Commerce,Inventory-and-POS-system,CakeOclock-MobileApp**
+- 👯 I’m looking to collaborate on **CakeOClock-E-Commerce,Inventory-and-POS-System,CakeOclock-MobileApp**
 
 <!-- - 🤝 I’m looking for help with **inventory-and-pos-system**    -->
 
