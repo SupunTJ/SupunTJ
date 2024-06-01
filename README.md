@@ -20,7 +20,7 @@
 
 <!-- - 🤝 I’m looking for help with **inventory-and-pos-system**    -->
 
-- 💬 Ask me about **MERN, WPF, ASP.NET**
+- 💬 Ask me about **MERN, WPF, ASP.NET Core**
 
 - 📫 How to reach me **supunjayaweera3@gmail.com**
 
