@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Supun Thiwanka</h1>
+<h1 align="center">Hi 👋, I'm Supun Jayaweera</h1>
 <h3 align="center">A passionate Computer Engineering Student</h3>
 <!-- <h4 align="center">I'm a creative and determined undergraduate who thrives on meeting deadlines. My enthusiasm lies in crafting engaging Web & Mobile Applications and Data science. Additionally, I am proficient in both MERN, ASP.NET and Flutter technologies. </h4>  -->
 
