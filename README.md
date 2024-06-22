@@ -8,7 +8,7 @@
        <a href="https://user-badge.committers.top/sri_lanka/SupunTJ">
             <img src="https://user-badge.committers.top/sri_lanka/SupunTJ.svg" />
 
-<!--         <a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
+<!--  <a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
             <img src="https://user-badge.committers.top/sri_lanka_public/SupunJayaweera.svg" />
         </a> -->
 
