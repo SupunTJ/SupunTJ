@@ -10,7 +10,7 @@
 
 <!-- <a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
             <img src="https://user-badge.committers.top/sri_lanka_public/SupunJayaweera.svg" />
-        </a> -->
+</a> -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SupunTJ&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
