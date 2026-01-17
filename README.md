@@ -5,8 +5,8 @@
 
 <img align="center" alt="Coding" width="800" height="200" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SupunTJ&label=Profile%20views&color=0e75b6&style=flat" alt="SupunTJ" /> </p>
-       <a href="https://user-badge.committers.top/sri_lanka/SupunTJ">
-            <img src="https://user-badge.committers.top/sri_lanka/SupunTJ.svg" />
+       <!-- <a href="https://user-badge.committers.top/sri_lanka/SupunTJ">
+            <img src="https://user-badge.committers.top/sri_lanka/SupunTJ.svg" /> -->
 
 <!-- <a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
             <img src="https://user-badge.committers.top/sri_lanka_public/SupunJayaweera.svg" />
